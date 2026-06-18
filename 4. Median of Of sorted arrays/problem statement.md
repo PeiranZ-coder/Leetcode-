@@ -2,7 +2,9 @@ Given two sorted arrays nums1 and nums2 of size m and n respectively, return the
 
 The overall run time complexity should be O(log (m+n)).
 
- 
+给定两个大小分别为 m 和 n 的正序（从小到大）数组 nums1 和 nums2。请你找出并返回这两个正序数组的 中位数 。
+
+算法的时间复杂度应该为 O(log (m+n)) 。
 
 Example 1:
 
@@ -24,3 +26,6 @@ nums2.length == n
 0 <= n <= 1000
 1 <= m + n <= 2000
 -106 <= nums1[i], nums2[i] <= 106
+
+
+
